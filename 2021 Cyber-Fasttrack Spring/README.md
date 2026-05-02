@@ -2,7 +2,7 @@
 
 Writeups for various challenges, including ones I did not actually solve during the competition.
 
-Here are my results. I just managed to snag a top 1% finish.
+Here are my results. I *just* managed to snag a top 1% finish.
 
 ![Results](results.PNG)
 
